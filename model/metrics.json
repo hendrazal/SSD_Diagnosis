@@ -1,0 +1,12 @@
+{
+    "max_depth": 2,
+    "min_samples_split": 2,
+    "min_samples_leaf": 1,
+    "max_leaf_nodes": null,
+    "min_impurity_decrease": 0.0,
+    "tree_depth": 3,
+    "tree_leaves": 4,
+    "train_accuracy": 0.9555555555555556,
+    "test_accuracy": 0.9333333333333333,
+    "overfitting_gap": 0.022222222222222254
+}

@@ -1,0 +1,29 @@
+# Python bytecode and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local Python environments
+.venv/
+venv/
+env/
+ENV/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Generated model visualizations and experiment reports
+/model/decision_tree.png
+/model/decision_tree_rep.png
+/model/decision_tree_unpruned.png
+/model/overfitting_analysis.png
+/model/confusion_matrix_grid.png
+/model/complexity_comparison.png
+/model/comparison_4_conditions.png
+/model/comparison_4_conditions.json
+/model/pruning_metrics.json
+/model/best_pruning_configs.json
+/model/comparison_report.txt
