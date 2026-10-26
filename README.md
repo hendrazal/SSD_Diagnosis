@@ -65,8 +65,8 @@ Sistem_Diagnosis_SSD/
 Clone repository:
 
 ```bash
-git clone <URL-repository-GitHub>
-cd Sistem_Diagnosis_SSD
+git clone https://github.com/hendrazal/SSD_Diagnosis.git
+cd SSD_Diagnosis
 ```
 
 Atau unduh dan ekstrak ZIP repository, lalu buka terminal di folder hasil ekstraksi.
