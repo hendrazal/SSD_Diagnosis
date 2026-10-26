@@ -18,6 +18,10 @@ Thumbs.db
 # Project documentation kept locally
 /docs/
 
+# Unused helper and standalone REP experiment kept locally
+/utils/helper.py
+/utils/pruner_rep.py
+
 # Generated model visualizations and experiment reports
 /model/decision_tree.png
 /model/decision_tree_rep.png
