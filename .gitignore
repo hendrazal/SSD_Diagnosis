@@ -15,6 +15,9 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# Project documentation kept locally
+/docs/
+
 # Generated model visualizations and experiment reports
 /model/decision_tree.png
 /model/decision_tree_rep.png
